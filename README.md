@@ -1,4 +1,4 @@
-# [Liam Loftus - Resume](https://startbootstrap.com/template-overviews/resume/)
+# [Cynthia Flores - Resume](https://liamloft.github.io/Resume-C/)
 
 I created my resume using Blackrock Digital's Theme. Thank you. 
 
